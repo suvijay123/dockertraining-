@@ -11,6 +11,9 @@ first question before starting to learn about docker
 let us start with containers   
 
 What is a container?   
+  
+A container is a lightweight, portable, and isolated environment for running an application with its dependencies while sharing the host operating system kernel.
 
+below image helps in understanding what a container is...
 
-<img width="1386" height="789" alt="image" src="https://github.com/user-attachments/assets/25540014-b481-48ed-a99a-098f2ee029e9" />
+<img width="1015" height="989" alt="image" src="https://github.com/user-attachments/assets/1841c913-f654-4c8d-b6eb-5c215c5caadb" />
