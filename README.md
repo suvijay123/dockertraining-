@@ -16,4 +16,4 @@ A container is a lightweight, portable, and isolated environment for running an 
 
 below image helps in understanding what a container is...
 
-<img width="1015" height="989" alt="image" src="https://github.com/user-attachments/assets/1841c913-f654-4c8d-b6eb-5c215c5caadb" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/1841c913-f654-4c8d-b6eb-5c215c5caadb" />
